@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Config>
+    <ExperimentName>DarwinSim</ExperimentName>
+    <PopulationSize>100</PopulationSize>
+    <SpecieCount>10</SpecieCount>
+    <Activation>
+        <Scheme>Acyclic</Scheme>
+    </Activation>
+    <ComplexityRegulationStrategy>Absolute</ComplexityRegulationStrategy>
+    <ComplexityThreshold>10</ComplexityThreshold>
+    <Description>We force evolution</Description>
+
+    <TreeCount>30</TreeCount>
+</Config>
